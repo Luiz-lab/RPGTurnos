@@ -7,12 +7,12 @@ public class Personagem {
     private int pontosVida;
     private int forca;
     private int defesa;
-    private List<Habilidades> habilidadesList = new ArrayList<>();
-    private List<Itens> itensList = new ArrayList<>();
+    private final List<Habilidades> habilidadesList = new ArrayList<>();
+    private final List<Itens> itensList = new ArrayList<>();
     private int receberExperiencia;
-    private int taxaAcertoCritico = 0;
+    private final int taxaAcertoCritico = 0;
     private boolean isDefendendo;
-    private List<Efeitos> efeitosList = new ArrayList<>();
+    private final List<Efeitos> efeitosList = new ArrayList<>();
 
 
     public Personagem(String nome, int pontosVida, int forca, int defesa) {

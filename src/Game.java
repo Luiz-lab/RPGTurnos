@@ -3,10 +3,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Game {
-    private List<Personagem> personagens = new ArrayList<>();
-    private List<Personagem> inimigos = new ArrayList<>();
-    private Batalha batalha = new Batalha();
-    private Scanner keyboard = new Scanner(System.in);
+    private final List<Personagem> personagens = new ArrayList<>();
+    private final List<Personagem> inimigos = new ArrayList<>();
+    private final Batalha batalha = new Batalha();
+    private final Scanner keyboard = new Scanner(System.in);
 
     public void criarPersonagens() {
         boolean adicionarPersonagem;

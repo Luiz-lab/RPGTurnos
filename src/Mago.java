@@ -4,7 +4,7 @@ public class Mago extends Personagem{
     private final String classe = "Mago";
     private int level = 0;
     private int acumulaXp = 0;
-    private int taxaAcertoCritico = 25;
+    private final int taxaAcertoCritico = 25;
 
     public Mago(String nome, int pontosVida, int forca, int defesa, boolean atributosMagia, int upgradeMagia ) {
         super(nome, pontosVida, forca, defesa);

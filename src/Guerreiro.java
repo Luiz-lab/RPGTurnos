@@ -4,7 +4,7 @@ public class Guerreiro extends Personagem{
     private final String classe = "Guerreiro";
     private int level = 1;
     private int acumulaXp;
-    private int taxaAcertoCritico= 30;
+    private final int taxaAcertoCritico= 30;
 
     public Guerreiro(String nome, int pontosVida, int forca, int defesa, boolean atributosForca, int upgradeForca ) {
         super(nome, pontosVida, forca, defesa);

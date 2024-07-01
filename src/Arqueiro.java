@@ -1,10 +1,10 @@
 public class Arqueiro extends Personagem{
     private boolean atributoDestreza;
     private int upgradeDestreza;
-    private String classe = "Arqueiro";
+    private final String classe = "Arqueiro";
     private int level = 1;
     private int acumulaXp = 0;
-    private int taxaAcertoCritico = 20;
+    private final int taxaAcertoCritico = 20;
 
 
     public Arqueiro(String nome, int pontosVida, int forca, int defesa, boolean atributoDestreza, int upgradeDestreza ) {

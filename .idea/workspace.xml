@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c4b2692-777f-40fe-92c7-030ffc6f65aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPGTurno_V2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arqueiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Batalha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Efeitos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Guerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Habilidades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inimigos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Itens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Descricao.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arqueiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arqueiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Guerreiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personagem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +45,13 @@
     "Application.Game.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Trunk",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/luizcalixto/Documents/Estudo/Programação/JavaAcademy/MicroServicos/RPGTurno_V2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
